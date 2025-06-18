@@ -5,9 +5,7 @@
  */
 
 import React from 'react';
-
 import { Row, Col } from 'reactstrap';
-
 import { EMAIL_PROVIDER } from '../../../constants';
 import UserRole from '../UserRole';
 import Input from '../../Common/Input';
