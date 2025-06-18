@@ -5,7 +5,6 @@
  */
 
 import React from 'react';
-
 import Checkbox from '../../Common/Checkbox';
 import { HeartIcon } from '../../Common/Icon';
 
