@@ -32,7 +32,6 @@ import 'rc-slider/assets/index.css';
 
 // Authentication
 const token = localStorage.getItem('token');
-
 if (token) {
   // authenticate api authorization
   setToken(token);
